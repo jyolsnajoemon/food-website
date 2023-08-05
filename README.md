@@ -1,1 +1,2 @@
-# Food-website
+# Food Website
+A simple food website 
